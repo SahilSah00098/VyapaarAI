@@ -34,3 +34,40 @@ Not verified by automated tests: real-browser interaction, clipboard, file downl
 
 ## Originality declaration
 I built this project during the event with AI assistance, I used only fictional sample data, and I can explain the code.
+
+---
+
+## Screenshots
+
+Explore the main features of VyapaarAI through the screenshots below.
+
+### 1. Dashboard
+
+View business performance, sales, profit, customers, and pending udhaar in one place.
+
+![VyapaarAI Dashboard](dashboard.png)
+
+### 2. Growth Advisor
+
+Get prioritised, explainable recommendations to help local shops identify their next business actions.
+
+![VyapaarAI Growth Advisor](advisor.png)
+
+### 3. Customer CRM
+
+Manage customer information and support customer follow-ups.
+
+![VyapaarAI Customer CRM](customers.png)
+
+### 4. Message Writer
+
+Generate ready-to-use payment reminders and customer messages.
+
+![VyapaarAI Message Writer](messagewriter.png)
+
+---
+## Project Links
+
+* **Live Demo:** https://vyapaarai-bysahilsahktt40.netlify.app/
+* **Source Code:** [VyapaarAI on GitHub](https://github.com/SahilSah00098/VyapaarAI)
+
