@@ -1,3 +1,5 @@
+**Live Demo:** https://vyapaarai-bysahilsahktt40.netlify.app/
+
 # VyapaarAI
 "Your next sale starts with your next smart action."
 Track: Entrepreneurship & Local Business. An offline growth assistant for Indian local shops: it turns sales, customer and udhaar (pay-later) data into prioritised, explainable next actions.
